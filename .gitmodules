@@ -10,3 +10,7 @@
 [submodule "deep-learning-for-biology-book"]
 	path = deep-learning-for-biology-book
 	url = git@github.com:paymantohidifar/deep-learning-for-biology-book.git
+[submodule "bulk-rnaseq-analysis-workflow"]
+	path = bulk-rnaseq-analysis-workflow
+	url = git@github.com:paymantohidifar/bulk-rnaseq-analysis-workflow.git
+
