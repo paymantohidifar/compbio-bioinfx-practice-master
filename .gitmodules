@@ -22,3 +22,6 @@
 [submodule "protein-function-deep-learning"]
 	path = protein-function-deep-learning
 	url = git@github.com:paymantohidifar/protein-function-deep-learning.git
+[submodule "build-ai-drug-discovery-pipeline-book"]
+	path = build-ai-drug-discovery-pipeline-book
+	url = git@github.com:paymantohidifar/build-ai-drug-discovery-pipeline-book.git

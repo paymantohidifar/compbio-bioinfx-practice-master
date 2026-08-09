@@ -18,6 +18,9 @@ This parent repository serves as a unified, organized entry point to my computat
 * **[Deep Learning For Biology: Personal Study Notes & Reference](https://github.com/paymantohidifar/deep-learning-for-biology-book.git)**
 *A centralized hub for my personal study notes, architecture breakdowns, and implementations derived from Deep Learning for Biology by Christoff Ravarani and Natasha Latysheva.*
 
+* **[Build AI Drug Discovery Pipeline: Personal Study Notes & Reference](https://github.com/paymantohidifar/build-ai-drug-discovery-pipeline-book.git)**
+*A centralized hub for my personal study notes, architecture breakdowns, and implementations derived from Build AI Drug Discovery Pipeline book by Noah Flynn.*
+
 * **[Bioinformatics Data Skills: Personal Study Notes & Reference](https://github.com/paymantohidifar/bioinfx-data-skills-book.git)**
 
 * **[pH Receptors](https://github.com/paymantohidifar/pH-receptors.git)**
